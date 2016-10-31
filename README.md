@@ -1,5 +1,5 @@
 # CustomAlertSoundsDemo
-项目中遇到需要自定义通知声音的需求，以前没做过，就查了下[官方文档](https://developer.apple.com/library/ios/documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/Chapters/IPhoneOSClientImp.html#//apple_ref/doc/uid/TP40008194-CH103-SW6)，就像文档上说的，实现起来确实挺简单，就整理下当做备忘吧。
+项目中遇到需要自定义通知声音的需求，以前没做过，就查了下[官方文档](https://developer.apple.com/library/content/documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/SupportingNotificationsinYourApp.html#//apple_ref/doc/uid/TP40008194-CH4-SW10)，就像文档上说的，实现起来确实挺简单，就整理下当做备忘吧。
 
 关于推送，官方文档、各种第三方推送文档都很全，就跳过了。
 
